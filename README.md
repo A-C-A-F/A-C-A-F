@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariel
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytics
+- 🌱 I've already completed Google Data Analytics but I felt the need to pursue learning Data Science Specialization by JHU.
 - 💞️ I’m looking to collaborate on projects where I can apply my data analytics skills
 - 📫 How to reach me: you can reach me at arielchristian.felices@gmail.com
 
