@@ -1,7 +1,7 @@
 - 👋 Hi! I’m Ariel Felices. Welcome to my GitHub repo.
 - 👀 My passion is the intersection of storytelling and Data.
 - 🌱 I've been developing my Data Science skills for the past 2 years.
-- 💞️ I’m looking to collaborate on projects where I can apply my data analytics skills
+- 💞️ My goal is to complete my self-study using the learning path I created for learning Data Science.
 - 📫 How to reach me: you can reach me at arielchristian.felices@gmail.com
 
 <!---
