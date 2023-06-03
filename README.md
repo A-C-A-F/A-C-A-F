@@ -3,7 +3,7 @@ I'm Ariel Felices, a data professional passionate about the intersection of stor
 
 ### About me  
 🔭 I specialize in data management, full data science lifecycle, machine learning, and cloud computing.  
-🌱 I've been honing my data science skills for the past 2 years.  
+🌱 I've been honing my data science skills for the past 3 years.  
 👀 I'm deeply interested in the storytelling aspect of data science and how it can be used to communicate insights and drive action.  
 💞️ My goal is to leverage my expertise and experience to contribute to the growth and success of data-driven organizations.  
 💻 I'm proficient in Python, R, and SQL, and I'm a Google Certified professional.  
