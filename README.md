@@ -6,7 +6,7 @@ I'm Ariel Felices, a data professional passionate about the intersection of stor
 🌱 I've been honing my data science skills for the past 3 years.  
 👀 I'm deeply interested in the storytelling aspect of data science and how it can be used to communicate insights and drive action.  
 💞️ My goal is to leverage my expertise and experience to contribute to the growth and success of data-driven organizations.  
-💻 I'm proficient in Python, R, and SQL, and I'm a Google Certified professional.  
+💻 I'm proficient in Python, R, and SQL.  
 
 ### Get in touch
 I'm always looking to connect with like-minded individuals who share my passion for data science and analytics. If you'd like to get in touch, you can reach me at arielchristian.felices@gmail.com.
